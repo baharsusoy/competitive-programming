@@ -1,0 +1,19 @@
+# Compiled Applications (Derlenmiş Uygulamalar)
+*.exe
+*.out
+*.app
+
+# Object Files (Nesne Dosyaları)
+*.o
+*.obj
+
+# IDE and Compiler specific files (Derleyici ve Editör Dosyaları)
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS generated files (İşletim Sistemi Dosyaları)
+Thumbs.db
+desktop.ini
+.DS_Store
