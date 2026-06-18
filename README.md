@@ -49,3 +49,10 @@ g++ -std=c++17 problem_name.cpp -o problem_name
 
 # Run the executable
 ./problem_name
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/baharsusoy/competitive-programming/tree/master/2235-add-two-integers) |
+<!---LeetCode Topics End-->
